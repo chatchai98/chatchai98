@@ -26,7 +26,7 @@
 | **Namarak EMR** | Digital electronic medical records system with an AI chat that answers questions from EMR data | Node.js · Cloud Run · PostgreSQL · Vertex AI |
 | **Namarak AI Server** | Summarizes treatment history and answers questions automatically | Python · FastAPI · Vertex AI / Gemini |
 | **Kissflow Web Service** | Connects Kissflow data with Cloud SQL and Cloud Storage | Node.js · Express · Google Cloud |
-| **Desktop tools** | Thai ID card reader · PDF merger · Backup utility | |
+| **Desktop tools** | Thai ID card reader · PDF merger · Backup utility | Python · PyQt6 · Tkinter · Electron |
 
 ### 📂 Open source
 
