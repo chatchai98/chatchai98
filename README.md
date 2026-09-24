@@ -23,7 +23,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Namarak EMR** | Digital electronic medical records system | Node.js · Cloud Run · PostgreSQL |
+| **Namarak EMR** | Digital electronic medical records system with an AI chat that answers questions from EMR data | Node.js · Cloud Run · PostgreSQL · Vertex AI |
 | **Namarak AI Server** | Summarizes treatment history and answers questions automatically | Python · FastAPI · Vertex AI / Gemini |
 | **Kissflow Web Service** | Connects Kissflow data with Cloud SQL and Cloud Storage | Node.js · Express · Google Cloud |
 | **Desktop tools** | Thai ID card reader · PDF merger · Backup utility | |
@@ -61,6 +61,7 @@
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 **IT & Hardware**<br>
