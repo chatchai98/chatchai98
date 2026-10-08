@@ -38,6 +38,13 @@ I work on internal hospital systems with a team. These are high-level descriptio
 - [**Markdown-Viewer**](https://github.com/chatchai98/Markdown-Viewer): lightweight, local-first Markdown viewer and editor with GFM, Mermaid diagrams and syntax highlighting
 - [**Agent-SWI**](https://github.com/chatchai98/Agent-SWI): a Markdown-only "second brain" convention that gives AI coding agents shared memory across sessions and tools
 
+### 🧪 Personal projects
+
+Private repositories, listed here for reference.
+
+- **Chatchai.j**: this Liquid Glass resume site, scroll-driven zoom scenes in plain HTML, CSS and JavaScript ([live](https://chatchai-j98.pages.dev))
+- **AutoBackup**: GUI tool that backs up a Windows Server to a Linux server (Python)
+
 ### 🛠 Tech stack
 
 **Frontend**<br>
