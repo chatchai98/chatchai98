@@ -19,13 +19,19 @@
 - 🎓 **B.Ed. Educational Technology and Communications**, Mahasarakham University: GPAX 3.75, First-Class Honors
 - 🔭 **Open to** Frontend, Backend and AI roles · Rama 9 area · On-site / Hybrid
 
-### 🚀 What I've built
+### 🚀 Selected work
+
+I work on internal hospital systems with a team. These are high-level descriptions of private projects; no patient data or source code is shared here.
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Namarak EMR** | Digital electronic medical records system with an AI chat that answers questions from EMR data | Node.js · Cloud Run · PostgreSQL · Vertex AI |
-| **Namarak AI Server** | Summarizes treatment history and answers questions automatically | Python · FastAPI · Vertex AI / Gemini |
-| **Kissflow Web Service** | Connects Kissflow data with Cloud SQL and Cloud Storage | Node.js · Express · Google Cloud |
+| **Namarak EMR** | Electronic records and document workflows with OCR and AI-assisted summaries and Q&A | Node.js · Express · PostgreSQL · Cloud Storage · Gemini |
+| **Surgical Care** | Pre-operative, intra-operative and post-operative workflows with structured records and PDF documents | Python · FastAPI · PostgreSQL · Cloud Run |
+| **Namarak AI services** | APIs for clinical summaries and Q&A using hospital data and knowledge sources | Python · FastAPI · Vertex AI · Cloud SQL |
+| **Notification Service** | Shared API for templated LINE, SMS, email and Slack notifications | Node.js · Express · PostgreSQL |
+| **Document tools** | OCR for images and PDFs, plus a web-based PDF template designer | Python · FastAPI · OneOCR · WeasyPrint |
+| **Kissflow Web Service** | Connects hospital workflows with Cloud SQL and Cloud Storage | Node.js · Express · Google Cloud |
+| **CPOE demo** | Physician order entry prototype with a web UI and automated tests | TypeScript · NestJS · React · Prisma |
 | **Desktop tools** | Thai ID card reader · PDF merger · Backup utility | Python · PyQt6 · Tkinter · Electron |
 
 ### 📂 Open source
@@ -39,6 +45,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
 
 **Backend & API**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -46,6 +54,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **Database**<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
